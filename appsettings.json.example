@@ -1,0 +1,20 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Database=cinema_cafeteria;Username=cinema_user;Password=Cinema123!"
+  },
+
+  "JwtSettings": {
+    "Key": "YOUR_SECRET_KEY_HERE",
+    "Issuer": "CinemaApi",
+    "Audience": "CinemaClients"
+  },
+
+  "AllowedHosts": "*"
+}

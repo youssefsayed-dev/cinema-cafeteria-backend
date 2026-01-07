@@ -1,0 +1,17 @@
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+.vs/
+
+# EF Core
+*.db
+
+# Secrets
+appsettings.*.json
+.env
+
+# Node / frontend (skip frontend entirely)
+frontend/
