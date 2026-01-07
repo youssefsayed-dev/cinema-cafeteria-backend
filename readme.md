@@ -20,7 +20,7 @@ This is the backend API for a Cinema Cafeteria management system built with **AS
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/)
 - [PostgreSQL](https://www.postgresql.org/download/)
-- A code editor
+- A code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
