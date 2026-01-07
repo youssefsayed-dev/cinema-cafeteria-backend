@@ -1,21 +1,33 @@
-# Cinema Cafeteria Management System (Backend Only)
+# Cinema Cafeteria Backend
 
-This is a backend project for managing a cinema cafeteria, including products, inventory, sales, and shifts.
+This is the backend API for a Cinema Cafeteria management system built with **ASP.NET Core** and **PostgreSQL**. It includes features such as authentication, product management, inventory tracking, sales, and reporting.  
+
+---
 
 ## Features
-- JWT Authentication
-- Admin user seeding
-- Inventory management
-- Sales processing
-- EF Core migrations
-- Swagger documentation for APIs
 
-## Tech Stack
-- ASP.NET Core 7
-- PostgreSQL
-- AutoMapper
+- JWT Authentication & Authorization
+- Product Management (CRUD)
+- Inventory Management
+- Sales Processing
+- Reporting
+- Database Seeding for Admin User
+- Swagger API Documentation
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/
+---
+
+## Requirements
+
+- [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- A code editor
+
+---
+
+## Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/youssefsayed-dev/Cinema-Cafeteria-Backend.git
+cd Cinema-Cafeteria-Backend
